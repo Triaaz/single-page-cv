@@ -1,5 +1,7 @@
 # Single Page CV (HTML Only)
 
+**Project URL:** https://roadmap.sh/projects/single-page-cv
+
 This is a single-page CV built using only HTML for the roadmap.sh frontend project.
 
 ## Features
